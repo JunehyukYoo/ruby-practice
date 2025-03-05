@@ -1,3 +1,4 @@
+# fibonacci.rb
 # Different implementations of the nth number of the Fibonacci sequence
 
 GOLDEN = (1 + Math.sqrt(5)) / 2
